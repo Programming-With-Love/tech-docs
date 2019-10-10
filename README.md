@@ -9,10 +9,7 @@
 
 ## Author
 
-👤 **JohnnyTing**
-
-* Twitter: [@johnnyting7](https://twitter.com/johnnyting7)
-* Github: [@JohnnyTing](https://github.com/JohnnyTing)
+👤 **[JohnnyTing](https://github.com/JohnnyTing)**
 
 ## Show your support
 
